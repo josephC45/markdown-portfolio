@@ -1,6 +1,6 @@
--Skills
-  -Java
-  -C#
-  -Asp.Net Core
-  -Python
-  -GitHub
+- Skills
+  - Java
+  - C#
+  - Asp.Net Core
+  - Python
+  - GitHub
