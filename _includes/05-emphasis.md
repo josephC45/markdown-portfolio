@@ -1,0 +1,6 @@
+- **Skills**
+  - Java
+  - Python
+  - Html/CSS/JS
+  - Asp.Net Core
+  - C#

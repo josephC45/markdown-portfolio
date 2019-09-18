@@ -1,0 +1,5 @@
+- Hobbies
+  - Reading
+  - Exercising
+  - Muay Thai
+  - Soldering
