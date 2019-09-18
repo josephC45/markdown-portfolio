@@ -1,6 +1,5 @@
-- Skills
-  - Java
-  - C#
-  - Asp.Net Core
-  - Python
-  - GitHub
+- Hobbies
+  - Reading
+  - Exercising
+  - Muay Thai
+  - Soldering
