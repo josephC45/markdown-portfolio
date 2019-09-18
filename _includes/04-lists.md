@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+-Skills
+  -Java
+  -C#
+  -Asp.Net Core
+  -Python
+  -GitHub
